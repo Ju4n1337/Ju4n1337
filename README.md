@@ -48,7 +48,7 @@ I apply **NIST, SANS, TaHiTI, and PEAK** frameworks alongside enterprise EDR/MDR
 
 | Repository | Description |
 |---|---|
-| [**htb-writeups**](https://github.com/juanjo-herrera/htb-writeups) | Hack The Box write-ups (retired machines only), each with a blue-team **detection angle** |
+| [**htb-writeups**](https://github.com/Ju4n1337/htb-writeups) | Hack The Box write-ups (retired machines only), each with a blue-team **detection angle** |
 | [**dfir-toolkit**](https://github.com/juanjo-herrera/dfir-toolkit) | Python/Bash/PowerShell scripts for triage, timeline reconstruction, and analysis automation |
 | [**detection-engineering**](https://github.com/juanjo-herrera/detection-engineering) | YARA rules, Splunk searches, and Defender Advanced Hunting (KQL) queries mapped to MITRE ATT&CK |
 | [**aws-forensics**](https://github.com/juanjo-herrera/aws-forensics) | CloudTrail investigation playbooks and queries, plus TryHackMe AWS/Azure lab write-ups |

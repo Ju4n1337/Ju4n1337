@@ -13,9 +13,9 @@
 
 ## 🔍 About Me
 
-Certified cybersecurity professional with **6+ years** of experience in Digital Forensics and Incident Response (DFIR) and SOC/CSIRT operations across critical international environments. I have detected, investigated, and contained cyber incidents for medium and large enterprises in **Mexico, the United States, and Europe**.
+Certified cybersecurity professional with **6+ years** of experience in Digital Forensics and Incident Response (DFIR) and SOC/CSIRT operations across critical international environments.
 
-I apply **NIST, SANS, TaHiTI, and PEAK** frameworks alongside enterprise EDR/MDR and SIEM platforms, specializing in **malware analysis**, **advanced threat hunting**, and **AWS cloud forensics**.
+I apply **NIST, SANS, TaHiTI, PEAK and MITRE ATT&CK** frameworks alongside enterprise EDR/MDR and SIEM platforms, specializing in **Incident response**, **advanced threat hunting**, **malware analysis** and **AWS cloud forensics**.
 
 🌎 Based in Brazil · 🗣️ Spanish (Native) · Portuguese (Advanced) · English (Advanced)
 
@@ -27,9 +27,9 @@ I apply **NIST, SANS, TaHiTI, and PEAK** frameworks alongside enterprise EDR/MDR
 |---|---|
 | **Incident Analysis & Response** | DFIR, Digital Forensics, Log Analysis & SIEM, Advanced Threat Hunting |
 | **Security Platforms** | CrowdStrike, SentinelOne, Cortex (EDR/MDR), Splunk, Microsoft Defender, XQL, YARA |
-| **Cloud & Infrastructure** | AWS Forensics, Linux/Windows Hardening, Fortinet Firewall, Microsoft MCAS (CASB) |
+| **Cloud & Infrastructure** | AWS & GCP Forensics, Linux/Windows Hardening, Fortinet Firewall, Microsoft MCAS (CASB) |
 | **Malware & Reverse Engineering** | Static/Dynamic Analysis, Reverse Engineering |
-| **Forensic Tools** | Volatility, Autopsy, FTK, Cellebrite, AWS CloudTrail & CloudWatch |
+| **Forensic Tools** | Volatility, Autopsy, FTK, EnCase, Cellebrite, AWS CloudTrail & CloudWatch |
 | **Automation** | Python, Bash, PowerShell |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

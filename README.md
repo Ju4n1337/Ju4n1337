@@ -53,6 +53,7 @@ I apply **NIST, SANS, TaHiTI, PEAK and MITRE ATT&CK** frameworks alongside enter
 | [**detection-engineering**](https://github.com/Ju4n1337/detection-engineering) | YARA rules, Splunk searches, and Defender Advanced Hunting (KQL) queries mapped to MITRE ATT&CK |
 | [**aws-forensics**](https://github.com/Ju4n1337/aws-forensics) | CloudTrail investigation playbooks and queries, plus TryHackMe AWS/Azure lab write-ups |
 | [**threat-hunting**](https://github.com/Ju4n1337/threat-hunting) | TaHiTI/PEAK-style hunt plans with hypotheses, methodology, and results |
+| [**AI Security**](https://github.com/Ju4n1337/AI-Cybersec) | Prompts, Cyberdefense with Guardrails and more  |
 
 ---
 

@@ -67,7 +67,8 @@ I apply **NIST, SANS, TaHiTI, PEAK and MITRE ATT&CK** frameworks alongside enter
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** — Mexico Cyberdefenders Competition (Forensic Analysis)
+- 🥇 **1st Place** — Mexico Cyberdefenders 
+- 🥇 **Active player in HTB** 
 - 🚩 Active CTF participant in national and international events (**HACKMEX**, **HACKDEF**)
 - 🧪 TryHackMe AWS & Azure learning paths
 
